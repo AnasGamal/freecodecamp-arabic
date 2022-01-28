@@ -137,6 +137,6 @@ fetch('https://jsonplaceholder.typicode.com/posts', options)
 -   لإنشاء عملية "GET Request" بسيطة، تحتاج إلى تمرير الـ"endpoint" الخاص بالرابط (URL Endpoint) كـ"argument".
 -   لإنشاء عملية "POST Request"، ستحتاج بجانب ذلك إلى تمرير بعض الـ"parameters" الأخرى وذلك يتضمن كائن "object" يحتوي على تشكيل الإختيارات "configuration options". 
 
-إذا أعجبتك مقالتي وتريد أن تدعمني، فضلاً، يمكنك أن [تشتري لي قهوة](https://buymeacoffee.com/ubahthebuilder).
+إذا أعجبك مقالي وتريد أن تدعمني، فضلاً، يمكنك أن [تشتري لي قهوة](https://buymeacoffee.com/ubahthebuilder).
 
 شكرًا لك ولنا لقاء أخر.
